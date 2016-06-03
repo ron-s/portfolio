@@ -1715,15 +1715,15 @@ ul.list_mixed li:last-child:after,ul.list_check li:last-child:after,ul.list_star
 }
 
 ul.list_check li,li.list_check {
-    background: url(../images/icons/list_check.png) no-repeat 20px 5px;
+    background: url(../content/resume/images/icons/list_check.png) no-repeat 20px 5px;
 }
 
 ul.list_star li,li.list_star {
-    background: url(../images/icons/list_star.png) no-repeat 20px 5px;
+    background: url(../content/resume/images/icons/list_star.png) no-repeat 20px 5px;
 }
 
 ul.list_idea li,li.list_idea {
-    background: url(../images/icons/list_idea.png) no-repeat 20px 6px;
+    background: url(../content/resume/images/icons/list_idea.png) no-repeat 20px 6px;
 }
 
 dl {
@@ -4571,7 +4571,7 @@ a.icon_bar_dribbble span.b {
 .infobox ul li:before {
     content: "";
     display: block;
-    background: url(../images/icons/list_check.png) no-repeat;
+    background: url(../content/resume/images/icons/list_check.png) no-repeat;
     width: 16px;
     height: 16px;
     position: absolute;
