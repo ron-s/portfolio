@@ -4637,7 +4637,7 @@ a.icon_bar_dribbble span.b {
     padding: 5px 11px;
     -webkit-border-radius: 4px;
     border-radius: 4px;
-    background-image: url(../images/stripes/stripes_3_b.png);
+    background-image: url(../content/resume/images/stripes/stripes_3_b.png);
     background-color: #f8f8f8;
 }
 
@@ -4661,7 +4661,7 @@ a.icon_bar_dribbble span.b {
 .timeline_items {
     margin: 0 !important;
     position: relative;
-    background: url(../images/timeline_top.png) no-repeat top center;
+    background: url(../content/resume/images/timeline_top.png) no-repeat top center;
     padding-top: 9px;
 }
 
@@ -4687,12 +4687,12 @@ a.icon_bar_dribbble span.b {
     width: 45%;
     padding: 0 0 25px 55%;
     position: relative;
-    background: url(../images/timeline_right.png) no-repeat top center;
+    background: url(../content/resume/images/timeline_right.png) no-repeat top center;
 }
 
 .timeline_items li:nth-child(even) {
     padding: 0 55% 25px 0;
-    background: url(../images/timeline_left.png) no-repeat top center;
+    background: url(../content/resume/images/timeline_left.png) no-repeat top center;
 }
 
 .timeline_items li h3 {
@@ -4735,7 +4735,7 @@ a.icon_bar_dribbble span.b {
     position: relative;
     font-size: 15px;
     line-height: 31px;
-    background: url(../images/stripes/textline.png) repeat-y;
+    background: url(../content/resume/images/stripes/textline.png) repeat-y;
 }
 
 .timeline_items li .desc:before {
@@ -4745,7 +4745,7 @@ a.icon_bar_dribbble span.b {
     position: absolute;
     left: -122%;
     top: 0;
-    background-image: url(../images/stripes/stripes_10_b.png);
+    background-image: url(../content/resume/images/stripes/stripes_10_b.png);
 }
 
 .timeline_items li:nth-child(even) .desc:before {
